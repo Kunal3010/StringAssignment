@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bookworm", "bookworm\bookworm.csproj", "{38770AF6-5FC1-4D1E-A572-D51291F067A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38770AF6-5FC1-4D1E-A572-D51291F067A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38770AF6-5FC1-4D1E-A572-D51291F067A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38770AF6-5FC1-4D1E-A572-D51291F067A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38770AF6-5FC1-4D1E-A572-D51291F067A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48732F48-B643-454C-A3FA-F51A3CEA3519}
+	EndGlobalSection
+EndGlobal
